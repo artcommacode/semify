@@ -28,7 +28,7 @@ var semify = require('@artcommacode/semify')
 b.transform('semify')
 ```
 
-For further information, see the [browserify handbook](https://github.com/substack/browserify-handbook) section on [transforms](https://github.com/substack/browserify-handbook#transforms).
+For further information see the [browserify handbook](https://github.com/substack/browserify-handbook) section on [transforms](https://github.com/substack/browserify-handbook#transforms).
 
 ## Why
 
