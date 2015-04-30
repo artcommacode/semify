@@ -21,7 +21,7 @@ or with the API:
 
 
 ``` js
-var b = require('browserify)
+var b = require('browserify')
 var semify = require('@artcommacode/semify')
 
 b.transform('semify')
