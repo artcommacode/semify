@@ -1,6 +1,6 @@
 {
   "name": "@artcommacode/semify",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A browserify transform for adding semicolons",
   "main": "index.js",
   "scripts": {

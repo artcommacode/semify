@@ -32,4 +32,4 @@ For further information, see the [browserify handbook](https://github.com/substa
 
 ## Why
 
-I'd rather not have to use semicolons but browserify would prefer I did. This small transform keeps us both happy by piggy-backing onto the hard work done by [semi](https://www.npmjs.com/package/semi).
+I'd rather not use semicolons but browserify would prefer I did. This small transform keeps us both happy by piggy-backing onto the hard work done by [semi](https://www.npmjs.com/package/semi).
